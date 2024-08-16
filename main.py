@@ -53,4 +53,4 @@ def main(page: ft.Page):
     )
   )    
 
-ft.app(main, view=ft.AppView.WEB_BROWSER)
+ft.app(main)
